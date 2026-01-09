@@ -1,0 +1,1 @@
+# aws-shared-mailbox-automation
